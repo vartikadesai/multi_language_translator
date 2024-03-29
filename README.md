@@ -4,7 +4,7 @@ This repository contains a Python project on multi language translator. VoiceTra
  
  As voice translation can act as an intermediary for two people holding a conversation in different languages,the technology can be used and has been extended to use in customer support services.Depending on the translation technology,the implementation of voice translation technology can offer users a text-based translation of speech, while others can offer translation over voice to another member of the chat.
 
- # FEATURES
+ # Features
  1. Translator: The bot will first ask for the language you want to translate and then
  listen to the sentences and then present to you the desired translation.
  2. Google Search: The bot will ask you what it is that you want to search and in
